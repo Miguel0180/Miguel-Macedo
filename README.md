@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Miguel 👋
 
 ### Sobre mim
 Sou apaixonado por desenvolvimento e tecnologia.  
