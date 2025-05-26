@@ -1,21 +1,56 @@
-# Olá, eu sou Miguel 👋
-
-### Sobre mim
-Sou apaixonado por desenvolvimento e tecnologia.  
-Atualmente focado em aprender e construir projetos legais.
+Perfeito! Aqui está o README exatamente no mesmo formato, com o nome alterado para **Miguel Macedo**:
 
 ---
 
-### Tecnologias que uso
+# 👋 Olá, eu sou Miguel Macedo!
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Apaixonado por tecnologia, design e desenvolvimento, sempre explorando novos horizontes e desafios.
 
----
+## 🧑‍💻 Sobre Mim
 
-### Contato
+Sou um desenvolvedor e designer dedicado que acredita que o código e a criatividade andam juntos. Gosto de transformar ideias em projetos reais e de aprender constantemente para evoluir.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+## 🎓 Formação Acadêmica
+
+🏫 Firjan SENAI SESI Petrópolis
+📚 Curso Técnico em Desenvolvimento de Sistemas
+
+## 🚀 O que faço?
+
+* Crio aplicações web modernas e responsivas
+* Desenvolvo projetos com foco em usabilidade e performance
+* Design gráfico e identidade visual para projetos digitais
+* Compartilho conhecimento e experiências para crescer junto à comunidade
+
+## 🛠️ Habilidades & Tecnologias
+
+* Python
+* JavaScript
+* HTML5
+* CSS3
+
+## 📂 Projetos & Estrutura
+
+Este repositório contém projetos organizados de forma clara para facilitar o estudo e o desenvolvimento contínuo. Cada pasta representa um projeto ou uma área de aprendizado.
+
+## 📊 Meu GitHub em números
+
+![Miguel Macedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel0180\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel0180\&layout=compact\&theme=radical)
+
+## 🌐 Onde me encontrar
+
+* [LinkedIn](https://www.linkedin.com)
+* [Instagram](https://www.instagram.com)
+* [Behance](https://www.behance.net)
+* [GitHub](https://github.com/Miguel0180)
+
+## ⚡ Curiosidade
+
+> “Grandes desenvolvedores são movidos não pelo dinheiro ou reconhecimento, mas pela curiosidade e paixão por aprender.” – Miguel Macedo
+
+## 📬 Quer trocar uma ideia? Me envie uma mensagem!
+
+Obrigado por visitar meu perfil! 🚀
+
+
