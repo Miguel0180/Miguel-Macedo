@@ -1,7 +1,3 @@
-Perfeito! Aqui está o README exatamente no mesmo formato, com o nome alterado para **Miguel Macedo**:
-
----
-
 # 👋 Olá, eu sou Miguel Macedo!
 
 Apaixonado por tecnologia, design e desenvolvimento, sempre explorando novos horizontes e desafios.
