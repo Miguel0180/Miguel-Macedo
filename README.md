@@ -24,6 +24,8 @@ Sou um desenvolvedor e designer dedicado que acredita que o código e a criativi
 * JavaScript
 * HTML5
 * CSS3
+* PHP
+* MySql
 
 ## 📂 Projetos & Estrutura
 
@@ -32,6 +34,7 @@ Este repositório contém projetos organizados de forma clara para facilitar o e
 ## 📊 Meu GitHub em números
 
 ![Miguel Macedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel0180\&show_icons=true\&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel0180\&layout=compact\&theme=radical)
 
 ## 🌐 Onde me encontrar
